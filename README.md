@@ -23,4 +23,4 @@ The **Stock Price Prediction** project aims to predict the future stock prices u
 - **TensorFlow/Keras** (if using deep learning models like LSTM)  
 - **Kaggle** (for data collection)  
 
----
+
